@@ -1,6 +1,8 @@
 # #90DaysOfDevOps Challenge
 ## Learn, Upskill, Grow  with the Community
 
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fajitfawade%2F90DaysOfDevOps&countColor=%232ccce4&style=plastic&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fajitfawade%2F90DaysOfDevOps)
+
 Join our DevOps community challenge starting on January 1st, 2023 and embark on a 90-day journey to become a better DevOps practitioner. This repository serves as an open invitation to all DevOps enthusiasts who are looking to enhance their skills and knowledge. By participating in this challenge, you will have the opportunity to learn from others in the community, collaborate with like-minded individuals, and ultimately strengthen your DevOps abilities. 
 
 Let's come together to grow and achieve new heights in DevOps!
